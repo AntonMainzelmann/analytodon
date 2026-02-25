@@ -10,8 +10,8 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME_BACKEND: AntonMainzelmann/analytodon-backend
-  IMAGE_NAME_FRONTEND: AntonMainzelmann/analytodon-frontend
+  IMAGE_NAME_BACKEND: antonmainzelmann/analytodon-backend
+  IMAGE_NAME_FRONTEND: antonmainzelmann/analytodon-frontend
 
 jobs:
   build-and-push-backend:
